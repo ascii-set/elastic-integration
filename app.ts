@@ -1,1 +1,1 @@
-export const name = 'Adnan'
+export * from './src'
